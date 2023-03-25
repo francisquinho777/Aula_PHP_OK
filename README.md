@@ -20,3 +20,20 @@ else {
 }
 
 ?>
+
+
+#Hello wolrd
+
+<?php
+ ECHO"HELLO WORD";
+ ?>
+ 
+ #contador.php
+ 
+ <?php
+
+for($i = 0 ;$i <10 ;$i++){
+    echo $i;
+}
+$i=0
+?>
