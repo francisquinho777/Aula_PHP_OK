@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <form id="login" action= "wedson.php">
+            <input type="submit" name "entar" value+"entrar"
+</form>
+   </center>    
+</body>
+</html>
+
+
+
+
+
+<?php
+
+for ($i= 0; $i<10; $i++) {
+    for ($j=0; $j<$i; $j++) {
+         echo "0";
+         
+   }
+   echo "<br>";
+}
+?> 
+
+
+
+<?php
+$i = 0;
+while ($i<10){
+    $j=0;
+    while( $j < $i) {
+    echo "0";
+    $j++;
+
+}
+echo "<br>";
+$i++;
+}
+
+?>
+
+
+
+
